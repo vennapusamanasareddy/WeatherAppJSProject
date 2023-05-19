@@ -1,0 +1,8 @@
+body{
+    background-color: #cdbf20;
+}
+body h1{
+    color: rgb(56, 123, 17);
+    font-weight: bolder;
+    font-style: inherit;
+}
